@@ -3,7 +3,7 @@
  */
 
 /**
- * @author hpro1
+ * @author Snake
  *
  */
 public class Main {
